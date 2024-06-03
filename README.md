@@ -1,4 +1,4 @@
-- 👋 Hello, I am @rooney KALUMBA ilunga, I am passionate about programming in general and Android app development. I am a fan of Kotlin, Django, and embedded systems.
+- 👋 Hello, I am @rooney KALUMBA ilunga, I am passionate about programming in general and Android app development. I am a fan of Kotlin, php and embedded systems.
 - 👀 I’m interested in developement android and i'm fanboy kotlin and django and angular
 - 🌱 I’m currently learning jetpack compose and django
 - 💞️ I’m looking to collaborate on project open source and a team
