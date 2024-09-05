@@ -17,4 +17,4 @@ Welcome to my GitHub profile! I'm Rooney Kalumba Ilunga, a passionate backend we
 If you're interested in collaborating, discussing ideas, or just want to chat about development, feel free to reach out! I'm always open to learning from others and sharing what I've learned.
 
 ---
-  [![HitCount](https://hits.dwyl.com/rooneyi/https://githubcom/rooneyi/rooneyi.svg?style=flat)](http://hits.dwyl.com/rooneyi/https://githubcom/rooneyi/rooneyi)
+  [![HitCount](https://hits.dwyl.com/rooneyi/https://githubcom/rooneyi/rooneyi.svg?style=flat-square&show=unique)](http://hits.dwyl.com/rooneyi/https://githubcom/rooneyi/rooneyi)
