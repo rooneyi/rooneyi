@@ -1,20 +1,65 @@
-# Rooney Kalumba Ilunga
+# Rooney Kalumba Ilunga  
+### Symfony & Laravel Developer | Kotlin Mobile Enthusiast  
 
-### Backend Web Developer | Mobile Development Enthusiast
+<div style="display: flex; gap: 10px; margin: 15px 0; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white" alt="Symfony" title="Advanced Symfony Development">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" title="Production-Grade Laravel Apps">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin" title="Android Development">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" title="Python Programming">
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=jetpack-compose" alt="Jetpack Compose">
+</div>
 
-Welcome to my GitHub profile! I'm Rooney Kalumba Ilunga, a passionate backend web developer with a strong focus on **PHP** and **Symfony**. I also have a keen interest in mobile development and enjoy exploring new technologies and methodologies in the field.
+## 💻 Technical Expertise  
 
-## About Me
+### **Backend Development**  
+**Symfony Specialist**  
+- Building enterprise-grade applications with Symfony  
+- Creating RESTful APIs with API Platform  
+- Implementing complex domain logic with Doctrine  
 
-- **Backend Development**: My primary expertise lies in backend web development, where I use PHP (Symfony) as my core technology. I enjoy creating robust, scalable, and maintainable web applications.
-  
-- **Mobile Development**: Alongside web development, I am enthusiastic about mobile development. I am constantly learning and experimenting with different frameworks and tools to build mobile applications.
+**Laravel Expert**  
+- Developing scalable web applications  
+- Building secure authentication systems  
+- Optimizing database performance with Eloquent  
 
-- **Community Engagement**: Sharing knowledge and collaborating with other developers is something I deeply value. I believe in the power of community-driven learning and enjoy contributing to discussions, projects, and open-source initiatives.
+### **Mobile Development**  
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0;">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=jetpack-compose" alt="Jetpack Compose">
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android" alt="Android">
+</div>
 
-## Let's Connect
+- Building modern UIs with Jetpack Compose  
+- Implementing MVVM architecture  
+- Developing responsive Android applications  
 
-If you're interested in collaborating, discussing ideas, or just want to chat about development, feel free to reach out! I'm always open to learning from others and sharing what 
+### **Python Skills**  
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 10px 0;">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask" alt="Flask">
+</div>
 
-https://www.linkedin.com/in/rooney-kalumba-b0472b291/
+- Developing web applications with Django  
+- Creating automation scripts  
+- Exploring data analysis with Pandas  
+
+## 🔭 Current Focus  
+- Building high-performance Symfony applications  
+- Mastering Jetpack Compose for Android development  
+- Expanding Laravel ecosystem knowledge  
+
+## 📫 Get In Touch  
+<div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
+  <a href="https://www.linkedin.com/in/rooney-kalumba-b0472b291/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/yourprofile" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:your.email@example.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
+---
 
